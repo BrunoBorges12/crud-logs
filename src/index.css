@@ -1,0 +1,20 @@
+.body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.ant-pro-table-list-toolbar-setting-items {
+  display: none !important;
+}
+
+.ant-space-item {
+  display: none;
+}
+
+.mt-5 {
+  margin-top: 10px;
+}
+
+.ant-btn {
+  margin-top: 20px !important;
+}
